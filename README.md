@@ -51,7 +51,7 @@ kalerts.info("Process started")
 
 ## Output Example
 
-<img style="width:50%" src="https://github.com/KuramiDEV/SixSeven-Spicetify-Extension/blob/main/preview.png"/>
+<img style="width:50%" src="https://github.com/KuramiDEV/kalerts-python-lib/blob/main/Image/image.png"/>
 
 ## Example
 
