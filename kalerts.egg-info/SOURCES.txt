@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+kalerts/__init__.py
+kalerts.egg-info/PKG-INFO
+kalerts.egg-info/SOURCES.txt
+kalerts.egg-info/dependency_links.txt
+kalerts.egg-info/top_level.txt

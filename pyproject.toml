@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kalerts"
+version = "0.1.0"
+description = "Stylized terminal alerts for Python"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [
+  { name = "KuramiDev" }
+]
+requires-python = ">=3.8"
+keywords = ["alerts", "terminal", "cli", "python"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Environment :: Console",
+  "Topic :: Software Development :: Libraries :: Python Modules"
+]
